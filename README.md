@@ -2,7 +2,7 @@
 
 > **Componente:** Tipografia e Cores  
 > **Unidade Curricular:** Linguagem de Marcação  
-> **Data de Entrega:** 18/08/2026  
+
 
 ---
 
